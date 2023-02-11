@@ -7,4 +7,5 @@ fs.readFile('./data.json', 'utf-8', function (err, data) {
 });
 
 console.log('selanjutnya...');
-    
+
+// tes
